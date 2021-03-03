@@ -1,0 +1,26 @@
+{
+  "name": "js-utlis-strong",
+  "version": "1.0.0",
+  "description": "js utils",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSandManSy/js-utlis-strong.git"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "sy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSandManSy/js-utlis-strong/issues"
+  },
+  "homepage": "https://github.com/MrSandManSy/js-utlis-strong#readme"
+}
